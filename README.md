@@ -1,1 +1,8 @@
 # Crowdfunding_ETL
+What is presented is my Crowdfunding ETL project. What is included is a picture of the QuickDBD, schema for creating tables for the newly made csv files, and a jupyter source file containing all the code in which i used to extract, tranform and load the data. 
+
+Throughout the process i found extracting, transforming, and loading the data rather simple. The only diffucult part was with using regrex to transform the contact information. Using online information like Stack Overflow and returning back to previous in class assignment, i figured out a way to use regrex. Given that there were instructions and examples of how the transformed data was suppose to look, it made it easy. I know that once we start doing ETL for companies there aren't going to be many instructions and examples of how dataframes are going to look. With all this in mind, we need to understand that there is more to do than just learning to code. We need to learn what data is actually important and what can be removed. What data is crucial and need to be displayed for people to see and what is just junk and just takes up space. 
+
+After completing all the required new csv files i proceeded to use SQL to create tables to import the new csv files into. This step was rather simple as well since i find SQL to be pretty straight fowards and easier to use than python.
+
+In conclusion this project tested my abilites to gather data, clean that data, and loading it into another database. I believe this skill is crucial in the world of data analytics. 
